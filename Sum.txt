@@ -8,7 +8,9 @@ public class Solution {
         int a= sc.nextInt();
         int b= sc.nextInt();
         int c= sc.nextInt();
-        int sum= a+b+c;
+        int d= sc.nextInt();
+        int e= sc.nextInt();
+        int sum= a+b+c+d+e;
         System.out.print(sum);
     }
 }
